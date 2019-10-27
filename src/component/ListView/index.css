@@ -1,0 +1,24 @@
+.ul{
+}
+.li{
+    background: #fff;
+    box-shadow: 0 0.21333rem 0.29867rem 0 rgba(0,0,0,.04);
+    border-radius: .59733rem;
+    border: 1px solid #f0f0f0;
+    padding: .64rem;
+    text-align: left;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+}
+.li-left{
+    width: 50px;
+    height: 50px;
+    background-color: #000;
+    margin-right: 15px;
+}
+.img{
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+}
